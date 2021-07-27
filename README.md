@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a CS student and a developer who's passionate about web development and solving intersting problems 😀
+I am a CS student and a developer who's passionate about web development and solving interesting problems 😀
 
 - I'm currently learning [React.js](https://reactjs.org/)
 - My personal website: [baselalnassr.com](https://www.baselalnassr.com/)
