@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a CS student and a developer who loves Linux and building software!
+I am developer who loves Linux and building software!
 
 - I'm currently exploring new stuff!
 - My personal website and blog: [baselalnassr.com](https://www.baselalnassr.com/)
